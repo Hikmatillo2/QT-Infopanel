@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="images">
+    <file>news1.png</file>
+    <file>news2.png</file>
+    <file>news0.png</file>
+    <file>news4.png</file>
+    <file>news3.png</file>
+    <file>news5.png</file>
+    <file>Logo_L.png</file>
+    <file>minobrnso.png</file>
+    <file>minobrrf.png</file>
+    <file>lyceum.png</file>
+    <file>ITSchool.png</file>
+    <file>schedule.png</file>
+    <file>RANschool.png</file>
+  </qresource>
+</RCC>
